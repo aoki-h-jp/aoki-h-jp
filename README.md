@@ -8,5 +8,9 @@
 - :bow: I'm Japanese junior engineer.
 - :book: I'm currently practicing Django and React.
 
+### My badges
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ### Contact
 - :e-mail: aoki.hirotaka.biz@gmail.com
