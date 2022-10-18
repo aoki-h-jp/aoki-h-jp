@@ -6,7 +6,7 @@
 
 
 - :bow: I'm Japanese junior engineer.
-- :book: I'm currently practicing Django and React.
+- :book: I'm currently training front-end frameworks.
 
 ### My badges
 <!--START_SECTION:badges-->
