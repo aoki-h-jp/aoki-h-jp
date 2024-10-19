@@ -11,10 +11,11 @@
 
 **We're developing several exciting applications using the following tech stack:**
 
-- Frontend: Next.js, zustand, React hooks
-- Backend: Supabase, TypeScript, Node.js, Resend
-- Infrastructure: Supabase, Sentry, AWS, Vercel
+- Frontend: Next.js, zustand, React hooks, TailwindCSS, shadcn/ui
+- Backend: Supabase, Node.js, Python
+- Infrastructure: Supabase, Sentry, AWS, Vercel, Resend
 - AI, design: ChatGPT, v0, figma
+- docs: docusaurus, dbdocs, typedoc
 
 We're actively expanding our team of engineers and looking for passionate individuals to join us in building innovative solutions.
 
