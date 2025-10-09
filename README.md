@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### benriscore
+### benriscore (ベンリスコア)
 
 Measure real-world convenience anywhere in Japan — visualize access to daily essentials through data-driven heatmaps powered by OpenStreetMap.
 
