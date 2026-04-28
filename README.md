@@ -2,15 +2,9 @@
 
 ### benriscore (ベンリスコア)
 
-Measure real-world convenience anywhere in Japan — visualize access to daily essentials through data-driven heatmaps powered by OpenStreetMap.
+Measure real-world convenience anywhere in Japan — visualize access to daily essentials through data-driven heatmaps.
 
-Recently released — [check out](https://benriscore.solopreneurs.tech/)
-
-### producthunt-mcp-research
-
-Bring Product Hunt insights offline: search, analyze, and explore with MCP-powered local research built on Qdrant.
-
-Recently released — check out the [docs](https://producthunt-mcp-research.docs.solopreneurs.tech) and [GitHub repo](https://github.com/aoki-h-jp/producthunt-mcp-research) to get started.
+Recently released — [check out](https://benriscore.com/)
 
 ### Solopreneurs 🚀
 
