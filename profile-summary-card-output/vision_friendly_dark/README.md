@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/aoki-h-jp/aoki-h-jp/main/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg)
+```
+
+    
